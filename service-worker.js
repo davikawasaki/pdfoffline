@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pdfoffline/precache-manifest.3956d5e02ffa386e417224c92053f1ae.js"
+  "/pdfoffline/precache-manifest.6e698993ee9b924dc1bd3ff9af3b12da.js"
 );
 
 workbox.clientsClaim();
